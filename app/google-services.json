@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339393650615",
+    "firebase_url": "https://myslack-8c656.firebaseio.com",
+    "project_id": "myslack-8c656",
+    "storage_bucket": "myslack-8c656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339393650615:android:d606d5f51c2f3e59",
+        "android_client_info": {
+          "package_name": "com.example.myslack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339393650615-tvbefbljrqe73kr96a3i0eib4k6fnkn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myslack",
+            "certificate_hash": "3cf6981d150badc09d52784a31da0648573968f9"
+          }
+        },
+        {
+          "client_id": "339393650615-gr0dvk1vellfh4uq5reoqvvajv5cnfb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJq9mwDavLHjnIUayiYc6D06VC03vC3jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339393650615-gr0dvk1vellfh4uq5reoqvvajv5cnfb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
